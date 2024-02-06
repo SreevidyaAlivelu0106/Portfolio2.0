@@ -1,0 +1,42 @@
+body {
+  background: rgb(247, 246, 241) !important;  }
+
+.navbar {
+    padding: 15px !important; /* Adjust the padding as needed */
+}
+
+.navbar-brand {
+    margin-right: auto !important; /* Push "Sree" to the left */
+    font-size: 35px !important;
+}
+
+.navbar-nav {
+    margin-left: auto !important; /* Push the rest of the items to the right */
+}
+
+.nav-link {
+    margin-right: 15px !important; /* Add right margin to each link for space */
+}
+
+.header{
+  font-family: "Sixtyfour", sans-serif;
+  font-size: 25px !important;
+}
+
+.home{
+  padding: 155px !important;
+}
+
+.polaroid {
+  padding: 55px !important;
+  width: 900px;
+  height: 370px;
+  border: 1px solid #0000FF;
+  background-color: #ffffff;/*#A3EA71; rgb(205, 235, 245);*/
+  box-shadow: 20px 20px 5px #0000FF;/*#FA64B5 /*#efadd9;*/
+}
+
+.caption{
+  font-family: "JetBrains Mono", sans-serif;
+  font-size: 20px !important;
+}
