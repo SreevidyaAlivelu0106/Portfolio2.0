@@ -26,6 +26,16 @@ body {
 .home{
   padding: 155px !important;
 }
+.about{
+  padding: 100px !important;
+}
+.picture{
+  width: 350px;
+  height: 420px;
+  border: 1px solid #0000FF;
+  background-color: #ffffff;/*#A3EA71; rgb(205, 235, 245);*/
+  box-shadow: 20px 20px 5px #0000FF;/*#FA64B5 /*#efadd9;*/
+}
 
 .polaroid {
   padding: 55px !important;
@@ -39,4 +49,17 @@ body {
 .caption{
   font-family: "JetBrains Mono", sans-serif;
   font-size: 20px !important;
+  font-weight: bold;
+}
+
+.aboutText{
+  font-family: "JetBrains Mono", sans-serif;
+  font-size: 17px !important;
+  text-align: left;
+}
+
+.aboutHeading{
+  font-family: "JetBrains Mono", sans-serif;
+  font-weight: bold;
+  text-align: left;
 }
